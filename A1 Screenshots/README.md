@@ -1,3 +1,5 @@
+![IDLE Calculator](<Screenshot 2026-01-18 120237.png>)
+![VS Code Calculator](<Screenshot 2026-01-18 120510.png>)
 git init - creates an empty git repository, or reinitializes an existing one
 git status - displays the paths of the Git tree
 git add - add file contents to the index
