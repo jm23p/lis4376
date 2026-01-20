@@ -14,11 +14,11 @@
 
 #### README.md file should include the following items:
 
-* Screenshot of a1_paycheck_calculator application running using IDLE (see below);
-* Screenshot of a1_paycheck_calculator application running using VS Code (see below);
-* Screenshot of a1_paycheck_calculator application running using Jupyter Lab (see below);
-* Screenshot of run_py_files_in_jupyter_lab running using Jupyter Lab (see below);
-* Screenshot of magic_commands running using Jupyter Lab (see below);
+* Screenshot of a1_paycheck_calculator application running using IDLE;
+* Screenshot of a1_paycheck_calculator application running using VS Code;
+* Screenshot of a1_paycheck_calculator application running using Jupyter Lab;
+* Screenshot of run_py_files_in_jupyter_lab running using Jupyter Lab;
+* Screenshot of magic_commands running using Jupyter Lab;
 * Upload ALL THREE .ipynb files and create links in README.md;
 * git commands w/short descriptions
 

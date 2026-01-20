@@ -2,9 +2,7 @@
 
 ## Joshua Mann
 
-### Class Number Requirements:
-
-1. [A1 README](A1_4376/README.md)
+1. [A1 README](a1/README.md)
     - Install Anaconda Python
     - Install Visual Code Studio
     - Create a1_paycheck_calculator application
