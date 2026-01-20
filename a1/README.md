@@ -44,6 +44,6 @@
 ![magic_commands (4)](<Screenshot 2026-01-18 163636.png>)
 
 #### LIS 4376 A1 Program GitHub Links:
-[magic_commands](https://github.com/jm23p/lis4376/blob/master/A1_4376/magic_commands.ipynb)
-[run_py_files_in_jupyter_lab](https://github.com/jm23p/lis4376/blob/master/A1_4376/run_py_files_in_jupyter_lab.ipynb)
-[paycheck_calculator](https://github.com/jm23p/lis4376/blob/master/A1_4376/paycheck_calculator_.ipynb)
+[magic_commands](https://github.com/jm23p/lis4376/blob/master/a1/magic_commands.ipynb)
+[run_py_files_in_jupyter_lab](https://github.com/jm23p/lis4376/blob/master/a1/run_py_files_in_jupyter_lab.ipynb)
+[paycheck_calculator](https://github.com/jm23p/lis4376/blob/master/a1/paycheck_calculator_.ipynb)
