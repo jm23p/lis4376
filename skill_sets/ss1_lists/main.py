@@ -2,7 +2,7 @@
 import functions as f
 
 def main():
-    """docstring goes here just talk about it"""
+    """function to pull from function library"""
     f.get_requirements()
     your_list = f.get_list1()
     your_list = f.add_list1(your_list)

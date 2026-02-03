@@ -2,7 +2,7 @@
 import functions as f
 
 def main():
-    """docstring goes here just talk about it"""
+    """function to pull from function library"""
     f.get_requirements()
     your_set = f.get_set()
     f.get_other_sets()
