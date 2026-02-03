@@ -14,12 +14,33 @@
     * Link to exported conda environment package list file, testenv.yml
     * Create Python program displaying environment packages, my_env_versions.py
 
-### A2 Screenshots
+
+---
+## A2 Screenshots:
 
 ![Conda Environments](<Screenshot 2026-01-27 131657.png>)
 ![my_env_versions Running](<Screenshot 2026-01-29 122759.png>)
+---
+## A2 Files and Links:
 
-### A2 Files and Links
+- [A2 File](a2.ipynb)
+- [testenv File](testenv.yml)
+- [my_env_versions File](my_env_versions.py)
+- 
 
-[A2 File](a2.ipynb)
-[testenv File](testenv.yml)
+## A2 Skillsets:
+
+### Skillset 1 (Lists):
+- **Main Program:** [main.py](../skill_sets/ss1_lists/main.py) 
+- **Function Library:** [functions.py](../skill_sets/ss1_lists/functions.py)
+![Skillset 1 Screenshot](<Screenshot 2026-02-03 133021.png>)
+
+### Skillset 2 (Tuples):
+- **Main Program:** [main.py](../skill_sets/ss2_tuples/main.py)
+- **Functions Library:** [functions.py](../skill_sets/ss2_tuples/functions.py) 
+![Skillset 2 Screenshot](<Screenshot 2026-02-03 133158.png>)
+
+### Skillset 3 (Sets):
+- **Main Program:** [main.py](../skill_sets/ss3_sets/main.py)
+- **Functions Library:** [functions.py](../skill_sets/ss3_sets/functions.py)
+![Skillset 3 Screenshot](<Screenshot 2026-02-03 133315.png>)
