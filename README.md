@@ -11,5 +11,9 @@
     - Create Bitbucket repo
     - Provide GIT command descriptions
 
-2. [A2 README.md](a2/README.md "My A2 README.md file")
-    - 
+2. [A2 README.md](a2/README.md)
+    - Create conda environments
+    - Using "Separation of Concerns" design principles
+    - Examining, sorting, shaping, and analyzing data sets
+    - Provide screenshots of environments and packages
+    - Provide links to required files and GitHub directories
