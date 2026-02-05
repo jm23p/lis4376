@@ -37,19 +37,19 @@
 ## A2 Skillsets:
 
 ### Skillset 1 (Lists):
-- **Main Program:** [main.py](../skill_sets/ss1_lists/main.py) 
-- **Function Library:** [functions.py](../skill_sets/ss1_lists/functions.py)
+- [SS1 Directory (main.py & functions.py)](https://bitbucket.org/jm23p/lis4376/src/410e4fcb7d52cbc5ae0d27e878905fbf752ddbbe/skill_sets/ss1_lists/)
+
 
 ![Skillset 1 Screenshot](<Screenshot 2026-02-03 133021.png>)
 
 ### Skillset 2 (Tuples):
-- **Main Program:** [main.py](../skill_sets/ss2_tuples/main.py)
-- **Functions Library:** [functions.py](../skill_sets/ss2_tuples/functions.py) 
+- [SS2 Directory (main.py & functions.py)](https://bitbucket.org/jm23p/lis4376/src/master/skill_sets/ss2_tuples/)
+
 
 ![Skillset 2 Screenshot](<Screenshot 2026-02-03 133158.png>)
 
 ### Skillset 3 (Sets):
-- **Main Program:** [main.py](../skill_sets/ss3_sets/main.py)
-- **Functions Library:** [functions.py](../skill_sets/ss3_sets/functions.py)
+- [SS3 Directory (main.py & functions.py)](https://bitbucket.org/jm23p/lis4376/src/master/skill_sets/ss3_sets/)
+
 
 ![Skillset 3 Screenshot](<Screenshot 2026-02-03 133315.png>)
