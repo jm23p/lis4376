@@ -17,3 +17,5 @@
     - Examining, sorting, shaping, and analyzing data sets
     - Provide screenshots of environments and packages
     - Provide links to required files and GitHub directories
+
+3. [A3 README](a3/README.md)
