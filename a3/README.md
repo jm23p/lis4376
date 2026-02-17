@@ -21,21 +21,21 @@
 ## A3 Files and Links:
 
 - [A3 File](a3.ipynb)
-- [A3 Github Link]()
+- [A3 Github Link](https://github.com/jm23p/lis4376/blob/master/a3/a3.ipynb)
 
 ## A3 Skillsets:
 
 ### Skillset 4 (Dictionaries):
-- [SS4 Directory (main.py & functions.py)]()
+- [SS4 Directory (main.py & functions.py)](https://github.com/jm23p/lis4376/tree/master/skill_sets/ss4_dictionaries)
 
 ![Skillset 4 Screenshot](<Screenshot 2026-02-17 122518.png>)
 
-### Skillset 5 (Tuples):
-- [SS2 Directory (main.py & functions.py)]()
+### Skillset 5 (Pandas Dataframes 1):
+- [SS5 Directory (main.py & functions.py)](https://github.com/jm23p/lis4376/tree/master/skill_sets/ss5_pdfs1)
 
 ![Skillset 5 Gif](ss5.gif)
 
-### Skillset 6 (Sets):
-- [SS3 Directory (main.py & functions.py)]()
+### Skillset 6 (Pandas Dataframes 2):
+- [SS6 Directory (main.py & functions.py)](https://github.com/jm23p/lis4376/tree/master/skill_sets/ss6_pdfs2)
 
 ![Skillset 6 Screenshot](<Screenshot 2026-02-17 122943.png>)

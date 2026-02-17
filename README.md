@@ -19,3 +19,7 @@
     - Provide links to required files and GitHub directories
 
 3. [A3 README](a3/README.md)
+    - Reverse engineer following A3 helper video
+    - Complete skillsets using separation of concerns design principles
+    - Provide screenshots/gifs of A3 and skillset files
+    - Provide links to required files and GitHub directories
