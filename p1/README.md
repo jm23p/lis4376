@@ -20,17 +20,21 @@
 
 ![P1 Gif](p1.gif)
 ---
-## P1Files and Links:
+## P1 Files and Links:
 
-[P1 .ipynb File](p1.ipynb)
+- [P1 .ipynb File](p1.ipynb)
+- [P1 Github Link](https://github.com/jm23p/lis4376/blob/master/p1/p1.ipynb)
 
-## P1Skillsets:
+## P1 Skillsets:
 
-### Skillset 7 (Pseudo-Random Numbers List):
+### Skillset 7 (Pseudo-Random Numbers List): [SS7 Directory (main.py & functions.py)](https://github.com/jm23p/lis4376/tree/master/skill_sets/ss7_pseudo_random_numbers_list)
+
 ![SS7 Screenshot](<Screenshot 2026-03-01 133418.png>)
 
-### Skillset 8 (Interest Calculator):
+### Skillset 8 (Interest Calculator): [SS8 Directory (main.py & functions.py)](https://github.com/jm23p/lis4376/tree/master/skill_sets/ss8_interest_calculator)
+
 ![SS8 Screenshot](<Screenshot 2026-03-01 143957.png>)
 
-### Skillset 9 (Guessing Game):
+### Skillset 9 (Guessing Game): [SS9 Directory (main.py & functions.py)](https://github.com/jm23p/lis4376/tree/master/skill_sets/ss9_guessing_game)
+
 ![SS9 Screenshot](<Screenshot 2026-03-02 215010.png>)
