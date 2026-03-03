@@ -23,3 +23,9 @@
     - Complete skillsets using separation of concerns design principles
     - Provide screenshots/gifs of A3 and skillset files
     - Provide links to required files and GitHub directories
+
+4. [P1 README](p1/README.md)
+    - Reverse engineer following P1 helper video
+    - Complete skillsets using separate of concerns design principles
+    - Provide screenshots/gifs of P1 and skillset files
+    - Provide links to required files with GitHub directories
