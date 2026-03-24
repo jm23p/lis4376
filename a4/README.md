@@ -14,27 +14,25 @@
 * Gif of A4
 * Links to A4 Github and Skillset directories
 
-## A4 Screenshots/Gifs:
+## A4 Gifs:
 
 ![A4 Gif](a4.gif)
 ---
 ## A4 Files and Links:
 
 - [A4 .ipynb File](a4.ipynb)
+- [A4 Github Link](https://github.com/jm23p/lis4376/blob/master/a4/a4.ipynb)
 
 ## A4 Skillsets:
 
-### Skillset 10 (Simple Shopping Cart):
-- 
+### Skillset 10 (Simple Shopping Cart): [Skillset 10 Directory](https://github.com/jm23p/lis4376/tree/master/skill_sets/ss10_simple_shopping_cart)
 
 ![Skillset 10 Screenshot](<Screenshot 2026-03-24 112523.png>)
 
-### Skillset 11 (Lists and Directories):
-- 
+### Skillset 11 (Lists and Directories): [Skillset 11 Directory](https://github.com/jm23p/lis4376/tree/master/skill_sets/ss11_lists_and_dictionaries)
 
 ![Skillset 11 Screenshot](<Screenshot 2026-03-22 143112.png>)
 
-### Skillset 12 (File Information):
-- 
+### Skillset 12 (File Information): [Skillset 12 Directory](https://github.com/jm23p/lis4376/tree/master/skill_sets/ss12_file_information)
 
 ![Skillset 12 Gif](ss12.gif)
