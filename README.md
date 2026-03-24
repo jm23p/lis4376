@@ -29,3 +29,9 @@
     - Complete skillsets using separate of concerns design principles
     - Provide screenshots/gifs of P1 and skillset files
     - Provide links to required files with GitHub directories
+
+5. [A4 README](a4/README.md)
+    - Reverse engineer A4 video
+    - Provide screenshots/gifs of A4 .ipynb file
+    - Complete skillsets 10-12 and provide screenshots/gifs of running files
+    - Provide links to required files and GitHub directories
