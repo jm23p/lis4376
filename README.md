@@ -35,3 +35,9 @@
     - Provide screenshots/gifs of A4 .ipynb file
     - Complete skillsets 10-12 and provide screenshots/gifs of running files
     - Provide links to required files and GitHub directories
+
+6. [A5 README](a5/README.md)
+    - Reverse engineer A5 video
+    - Provide screenshots/gifs of A5 .ipynb file
+    - Complete skillsets 13-15 and provide screenshots/gifs of running files
+    - Provide links to required files and GitHub directories
