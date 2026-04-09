@@ -28,6 +28,7 @@
 
 ## A5 Skillsets:
 
+### Skillset 13 (Algorithms):
 
 ![Skillset 13 Gif](ss13.gif)
 
