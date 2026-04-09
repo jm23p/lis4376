@@ -14,17 +14,20 @@
 * Gif of A5
 * Links to A5 Github and Skillset directories
 
-## A5 Gifs:
+## A5 Gif:
 
 ![A5 Gif](a5.gif)
 ---
 ## A5 Files and Links:
 
 [A5 .ipynb File](a5.ipynb)
+[Skillset 13 .ipynb](https://github.com/jm23p/lis4376/blob/master/skill_sets/ss13_algorithms/ss13_algorithms.ipynb)
+[Skillset 14 .ipynb](https://github.com/jm23p/lis4376/blob/master/skill_sets/ss14_python_image_processing/ss14_python_image_processing.ipynb)
+[Skillset 15 .ipynb](https://github.com/jm23p/lis4376/blob/master/skill_sets/ss15_python_image_processing2/ss15_python_image_processing2.ipynb)
+
 
 ## A5 Skillsets:
 
-### Skillset 13 (Algorithms): 
 
 ![Skillset 13 Gif](ss13.gif)
 
