@@ -34,4 +34,4 @@
 
 ### Skillset 15 (Python Image Processing 2): 
 
-![Skillset 15 Gif](ss15.gif)
+<video controls src="ss15-1.mp4" title="SS15 MP4"></video>
